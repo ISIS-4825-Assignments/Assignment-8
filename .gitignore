@@ -1,0 +1,11 @@
+# Ignore virtual env
+env/
+
+# Ignora training, validation and test data
+data/Action
+data/Comedy
+data/Horror
+data/Romance
+
+# Ignore python version
+.python-version

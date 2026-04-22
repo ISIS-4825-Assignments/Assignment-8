@@ -10,5 +10,11 @@ data/Romance
 # Dataset split
 split/
 
+# Models
+models/
+
+# Tuner results
+tuner_results/
+
 # Ignore python version
 .python-version
